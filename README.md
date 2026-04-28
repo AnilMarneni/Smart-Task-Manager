@@ -19,8 +19,6 @@ This project demonstrates how to design and build a **smart productivity system*
 
 ![System Architecture](./docs/Architecture.png)
 
-> 📌 Place your generated diagram inside:
-> `docs/system-architecture.png`
 
 ---
 
